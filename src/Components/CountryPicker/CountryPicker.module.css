@@ -1,0 +1,13 @@
+.countryPicker {
+  margin: 7% auto 0 auto;
+}
+
+.select {
+  max-width: 60%;
+}
+
+@media only screen and (max-width: 850px) {
+  .select {
+    max-width: 80%;
+  }
+}

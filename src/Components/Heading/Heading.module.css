@@ -1,0 +1,9 @@
+.heading {
+  /* border: 2px solid black; */
+  display: flex;
+  justify-content: center;
+}
+img {
+  max-width: 90%;
+  height: auto;
+}
